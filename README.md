@@ -1,0 +1,1 @@
+This is front-end contribution to our Minor project called "SkillPath AI" which acts as a guide & mentor for young minds that are lacking personalised guidance in this fast moving world of tech, and hence our system brings together the very guidance they need for their dream job.
